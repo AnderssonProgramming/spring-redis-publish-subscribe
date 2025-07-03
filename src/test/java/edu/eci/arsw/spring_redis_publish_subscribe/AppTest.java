@@ -1,4 +1,4 @@
-package co.edu.escuelaing.arsw;
+package edu.eci.arsw.spring_redis_publish_subscribe;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
